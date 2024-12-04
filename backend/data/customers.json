@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1fb28b66-1983-489a-b764-cfc8e9e3b326",
+    "firstName": "Johannes Hendrik",
+    "lastName": "van Iwaarden",
+    "email": "rickviwaarden@gmail.com",
+    "phone": "0622231798",
+    "homeAddress": {
+      "street": "Westweg 4",
+      "city": "Krabbendijke",
+      "state": "Zeeland",
+      "zipCode": "4413EG",
+      "country": "Nederland"
+    },
+    "deliveryAddress": null,
+    "joinDate": "2024-12-04T10:41:12.803986"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "baceb066-6416-4cde-a386-79b28622629d",
+    "name": "Aanhanger",
+    "description": "700kg",
+    "category": "Tafels",
+    "price": {
+      "daily": 50,
+      "deposit": 500
+    },
+    "stockTotal": 3,
+    "imageUrl": null,
+    "stockAvailable": 2
+  },
+  {
+    "id": "ecd72752-7d36-4d33-b82f-dfc09e6615e7",
+    "name": "Brandblusser 25L",
+    "description": "Brandblusser 25L",
+    "category": "Brandblusser",
+    "price": {
+      "daily": 10,
+      "deposit": 20
+    },
+    "stockTotal": 10,
+    "imageUrl": null,
+    "stockAvailable": 10
+  }
+]

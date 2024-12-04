@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "Instellingen",
+    "language": "Taal",
+    "currency": "Valuta",
+    "languages": {
+      "en": "Engels",
+      "nl": "Nederlands"
+    },
+    "currencies": {
+      "USD": "Amerikaanse Dollar ($)",
+      "EUR": "Euro (€)"
+    },
+    "save": "Wijzigingen Opslaan"
+  },
+  "common": {
+    "dashboard": "Dashboard",
+    "products": "Producten",
+    "customers": "Klanten",
+    "rentals": "Verhuur",
+    "reports": "Rapporten",
+    "settings": "Instellingen",
+    "darkMode": "Donkere Modus",
+    "lightMode": "Lichte Modus",
+    "logout": "Uitloggen"
+  }
+}

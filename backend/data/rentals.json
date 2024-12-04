@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8605e77e-0826-4013-b839-8ad9c2507c92",
+    "customerId": "1fb28b66-1983-489a-b764-cfc8e9e3b326",
+    "items": [
+      {
+        "productId": "baceb066-6416-4cde-a386-79b28622629d",
+        "quantity": 1,
+        "dailyPrice": 50.0,
+        "deposit": 500.0
+      },
+      {
+        "productId": "ecd72752-7d36-4d33-b82f-dfc09e6615e7",
+        "quantity": 2,
+        "dailyPrice": 10.0,
+        "deposit": 20.0
+      }
+    ],
+    "startDate": "2024-12-04",
+    "endDate": "2024-12-05",
+    "totalPrice": 140.0,
+    "totalDeposit": 540.0,
+    "deliveryAddress": {
+      "street": "Westweg 4",
+      "city": "Krabbendijke",
+      "state": "Zeeland",
+      "zipCode": "4413EG",
+      "country": "Nederland"
+    },
+    "status": "completed"
+  },
+  {
+    "id": "2fbf8ad4-71a2-4edb-8649-fd3e0ffacf24",
+    "customerId": "1fb28b66-1983-489a-b764-cfc8e9e3b326",
+    "items": [
+      {
+        "productId": "baceb066-6416-4cde-a386-79b28622629d",
+        "quantity": 1,
+        "dailyPrice": 50.0,
+        "deposit": 500.0
+      }
+    ],
+    "startDate": "2024-12-04",
+    "endDate": "2024-12-19",
+    "totalPrice": 800.0,
+    "totalDeposit": 500.0,
+    "deliveryAddress": {
+      "street": "Westweg 4",
+      "city": "Krabbendijke",
+      "state": "Zeeland",
+      "zipCode": "4413EG",
+      "country": "Nederland"
+    },
+    "status": "active"
+  }
+]

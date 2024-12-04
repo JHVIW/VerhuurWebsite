@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "currency": "Currency",
+    "languages": {
+      "en": "English",
+      "nl": "Dutch"
+    },
+    "currencies": {
+      "USD": "US Dollar ($)",
+      "EUR": "Euro (€)"
+    },
+    "save": "Save Changes"
+  },
+  "common": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "customers": "Customers",
+    "rentals": "Rentals",
+    "reports": "Reports",
+    "settings": "Settings",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "logout": "Logout"
+  }
+}
